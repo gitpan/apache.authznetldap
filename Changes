@@ -1,5 +1,5 @@
 Revision history for Perl extension Apache::AuthzNetLDAP.
 
-0.01  Thu Dec 23 12:12:53 1999
-	- original version; created by h2xs 1.18
+0.02  Tue Apr  4 15:09:16 2000
+	- repackaged into a cleaner distribution 
 
